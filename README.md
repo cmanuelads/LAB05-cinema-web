@@ -1,4 +1,4 @@
-\# Sistema Web de Controle de Cinema 🎥
+# Sistema Web de Controle de Cinema 🎥
 
 
 
@@ -6,7 +6,7 @@ Este é um projeto simples de sistema web para controle de cinema, desenvolvido 
 
 
 
-\## Funcionalidades Implementadas :D 
+## Funcionalidades Implementadas :D 
 
 
 
@@ -22,7 +22,7 @@ O sistema simula o fluxo de trabalho de um cinema, incluindo:
 
 
 
-\## Tecnologias Utilizadas 🖥️
+## Tecnologias Utilizadas 🖥️
 
 
 
@@ -40,7 +40,7 @@ O sistema simula o fluxo de trabalho de um cinema, incluindo:
 
 
 
-\## Como Executar o Projeto !
+## Como Executar o Projeto !
 
 
 
