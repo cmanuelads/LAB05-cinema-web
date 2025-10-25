@@ -34,7 +34,7 @@ O sistema simula o fluxo de trabalho de um cinema, incluindo:
 
 | CSS | Estilização básica | Aparência |
 
-| JavaScript Puro | \[cite\_start]Lógica de negócio, manipulação do DOM e interligação de dados\[cite: 7]. | Core do Sistema |
+| JavaScript Puro | Lógica de negócio, manipulação do DOM e interligação de dados. | Core do Sistema |
 
 | localStorage | Armazenamento local persistente dos dados (JSON) | Persistência de Dados |
 
